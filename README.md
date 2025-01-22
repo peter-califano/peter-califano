@@ -16,7 +16,7 @@ I bring a unique blend of analytics, research, and creative problem-solving to t
 - **Visualization**: Tableau, Matplotlib, Plotly  
 - **Analytics**: Statistical modeling, ROI/SROI analysis, Experiment Design
 
-## Current Projects
+## Projects
 - Building an automated dashboard to analyze Strava activity data with Python, SQL, and Tableau to track performance trends.  
 - Exploring the intersection of qualitative and quantitative measures in research.  
 
