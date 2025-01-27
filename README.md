@@ -16,6 +16,7 @@ I bring a unique blend of analytics, research, and creative problem-solving to t
 - **Visualization**: Tableau, Matplotlib, Excel  
 - **Analytics**: ROI/SROI Analysis, Experiment Design, Monte-Carlo Simulation, Sensitivity Analysis, Scaffolding 
 - **Statistical Modeling**: Linear, Logistic and Multiple Regression, ANOVA, Repeated Measures
+- **Data Cleaning and Transformation**: Scaffolding, Regex, Parsing
 
 ## Projects
 - [Strava Run Report](https://github.com/peter-califano/Strava-Run-Report): Building an automated dashboard to analyze Strava activity data with Python, SQL, and Tableau to track performance trends.
