@@ -14,7 +14,7 @@ I bring a unique blend of analytics, research, and creative problem-solving to t
 ## Skills
 - **Programming**: Python (data cleaning, APIs, ETL), Pandas, SQL  
 - **Visualization**: Tableau, Matplotlib, Excel  
-- **Analytics**: ROI/SROI Analysis, Experiment Design, Monte-Carlo Simulation, Sensitivity Analysis, Scaffolding 
+- **Analytics**: ROI/SROI Analysis, Experiment Design, Monte-Carlo Simulation, Sensitivity Analysis 
 - **Statistical Modeling**: Linear, Logistic and Multiple Regression, ANOVA, Repeated Measures
 - **Data Cleaning and Transformation**: Scaffolding, Regex, Parsing
 
