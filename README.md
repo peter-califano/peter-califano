@@ -19,6 +19,7 @@ I bring a unique blend of analytics, research, and creative problem-solving to t
 - **Data Cleaning and Transformation**: Scaffolding, Regex, Parsing
 
 ## Projects
+- [AI-Powered Invoice Data Extractor](https://github.com/peter-califano/AI-Powered-Invoice-Extractor): Pipeline to read and extract structured data from scanned pdf invoices utilizing OpenAI Vision. 
 - [Strava Run Report](https://github.com/peter-califano/Strava-Run-Report): Building an automated dashboard to analyze Strava activity data with Python, SQL, and Tableau to track performance trends.
 - [Brewery Expansion Model](https://github.com/peter-califano/Brewery-Expansion-Model): Financial modeling tool built in Excel, designed to evaluate two strategic scenarios for a brewery’s growth.
 - [Cookies Experiment](https://github.com/peter-califano/Cookies-Experiment): Experiment examining the effects of chemical leaveners on cookie diameter and height. Showcasing experiment design and R for statistical analysis.
